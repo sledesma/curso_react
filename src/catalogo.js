@@ -2,32 +2,32 @@ const catalogo = [
     {
         id: 1,
         nombre: 'Isabella',
-        imagen: 'http://localhost:3000/assets/Isabella.jpg'
+        imagen: 'https://sledesma.github.io/curso_react/assets/Isabella.jpg'
     },
     {
         id: 2,
         nombre: 'Cleopatra',
-        imagen: 'http://localhost:3000/assets/Cleopatra.jpg'
+        imagen: 'https://sledesma.github.io/curso_react/assets/Cleopatra.jpg'
     },
     {
         id: 3,
         nombre: 'Roque',
-        imagen: 'http://localhost:3000/assets/Roque.jpg'
+        imagen: 'https://sledesma.github.io/curso_react/assets/Roque.jpg'
     },
     {
         id: 4,
         nombre: 'Napoleon',
-        imagen: 'http://localhost:3000/assets/Napoleon.jpeg'
+        imagen: 'https://sledesma.github.io/curso_react/assets/Napoleon.jpeg'
     },
     {
         id: 5,
         nombre: 'Roco',
-        imagen: 'http://localhost:3000/assets/Roco.jpeg'
+        imagen: 'https://sledesma.github.io/curso_react/assets/Roco.jpeg'
     },
     {
         id: 6,
         nombre: 'Renata',
-        imagen: 'http://localhost:3000/assets/Renata.jpeg'
+        imagen: 'https://sledesma.github.io/curso_react/assets/Renata.jpeg'
     }
 ];
 
