@@ -1,0 +1,42 @@
+.contacto {
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+.contacto h2 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.contacto-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.contacto-form .campo {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    width: 500px;
+}
+
+textarea {
+    width: 400px;
+}
+
+button {
+    padding: 25px;
+    border: 0;
+    background: #67FF9B;
+    cursor: pointer;
+}
+
+input, textarea {
+    margin: 10px;
+    padding: 10px;
+}

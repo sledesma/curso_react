@@ -1,0 +1,39 @@
+.detalle {
+    padding: 10vh;
+}
+
+.main-row {
+    height: 50vh;
+
+    display: flex;
+}
+
+.main-row .image {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-row .image img {
+    width: 80%;
+    height: 300px;
+}
+
+.main-row .text {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.button {
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 50px;
+}

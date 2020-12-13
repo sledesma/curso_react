@@ -1,0 +1,8 @@
+.items-grid {
+    display: grid;
+
+    grid-template-columns: 27% 27% 27%;
+    column-gap: 2.77%;
+    row-gap: 40px;
+    justify-content: center;
+}
